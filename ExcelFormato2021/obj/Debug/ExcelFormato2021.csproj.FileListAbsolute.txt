@@ -1,0 +1,10 @@
+C:\Users\Gerar\source\repos\ExcelFormato2021\ExcelFormato2021\bin\Debug\ExcelFormato2021.exe.config
+C:\Users\Gerar\source\repos\ExcelFormato2021\ExcelFormato2021\bin\Debug\ExcelFormato2021.exe
+C:\Users\Gerar\source\repos\ExcelFormato2021\ExcelFormato2021\bin\Debug\ExcelFormato2021.pdb
+C:\Users\Gerar\source\repos\ExcelFormato2021\ExcelFormato2021\obj\Debug\ExcelFormato2021.csprojAssemblyReference.cache
+C:\Users\Gerar\source\repos\ExcelFormato2021\ExcelFormato2021\obj\Debug\ExcelFormato2021.Form1.resources
+C:\Users\Gerar\source\repos\ExcelFormato2021\ExcelFormato2021\obj\Debug\ExcelFormato2021.Properties.Resources.resources
+C:\Users\Gerar\source\repos\ExcelFormato2021\ExcelFormato2021\obj\Debug\ExcelFormato2021.csproj.GenerateResource.cache
+C:\Users\Gerar\source\repos\ExcelFormato2021\ExcelFormato2021\obj\Debug\ExcelFormato2021.csproj.CoreCompileInputs.cache
+C:\Users\Gerar\source\repos\ExcelFormato2021\ExcelFormato2021\obj\Debug\ExcelFormato2021.exe
+C:\Users\Gerar\source\repos\ExcelFormato2021\ExcelFormato2021\obj\Debug\ExcelFormato2021.pdb
